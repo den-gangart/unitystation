@@ -27,7 +27,6 @@ namespace Systems.MobAIs
 			base.Awake();
 			isHided = false;
 			originalSpriteData = spriteHandler.GetCurrentSpriteSO();
-			// fleeingStopped.AddListener(OnStoppedFleeing);
 			mobFlee.Deactivate();
 		}
 
@@ -104,14 +103,6 @@ namespace Systems.MobAIs
 
 			StopFollowing();
 			StartFleeing(damagedBy);
-		}
-
-		private void OnStoppedFleeing()
-		{
-			if(!isHided)
-			{
-				Hide();
-			}
 		}
 
 		/// <summary>
