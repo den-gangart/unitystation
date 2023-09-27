@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4191108381558184425
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 811126669682120101, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: mobName
+      value: Mimic
+      objectReference: {fileID: 0}
+    - target: {fileID: 3382670810718336917, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: fieldOfView
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 3560083802713417254, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: PriorityBalance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3783638323905235520, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3786279822138338372, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_Name
+      value: Mimic
+      objectReference: {fileID: 0}
+    - target: {fileID: 3826885964139575000, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: _assetId
+      value: 3698555972
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649476325489687081, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: PresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 4f08c0eb3b032204598276b3a811bb7d,
+        type: 2}
+    - target: {fileID: 7649476325489687081, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: SubCatalogue.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7649476325489687081, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: 'SubCatalogue.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 4f08c0eb3b032204598276b3a811bb7d,
+        type: 2}
+    - target: {fileID: 8452744359610409676, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: BodyParts.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8452744359610409676, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: 'BodyParts.Array.data[2]'
+      value: 
+      objectReference: {fileID: 7846086021253783863}
+    - target: {fileID: 8598374214700404016, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 8598374214700404016, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8598374214700404016, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4263848811941114141, guid: 5b8f32dda2ece9847965f3097d6400a7,
+        type: 3}
+    - target: {fileID: 8598374214700404016, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 811126669682120101, guid: cf769d410d94f0e47bab5eee03a3b07d, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3786279822138338372, guid: cf769d410d94f0e47bab5eee03a3b07d,
+        type: 3}
+      insertIndex: 18
+      addedObject: {fileID: 3148183790426575850}
+  m_SourcePrefab: {fileID: 100100000, guid: cf769d410d94f0e47bab5eee03a3b07d, type: 3}
+--- !u!1 &1054510464009565613 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3786279822138338372, guid: cf769d410d94f0e47bab5eee03a3b07d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4191108381558184425}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3148183790426575850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1054510464009565613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5185b0b645ecf45a1955d9183f4a63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AllowDead: 0
+  AllowUnconscious: 0
+  Priority: 1
+  mobName: Mimic
+  registerObject: {fileID: 0}
+  deathSounds: []
+  randomSounds: []
+  playRandomSoundTimer: 6
+  randomSoundProbability: 20
+  searchTickRate: 0.25
+  currentStatus: 0
+  ScoreForKilling: 5
+  attackDistance: 2
+  hideDistance: 5
+  searchObjectStep: 2
+  searchObjectMask:
+    serializedVersion: 2
+    m_Bits: 8390656
+  spriteHandler: {fileID: 5765074739834037184}
+--- !u!114 &5765074739834037184 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7649476325489687081, guid: cf769d410d94f0e47bab5eee03a3b07d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4191108381558184425}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db025f3627a11af4fb670ccd1e2188ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7846086021253783863 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6254140286428870878, guid: cf769d410d94f0e47bab5eee03a3b07d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4191108381558184425}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea79a12bc31d4df394067a2be447854d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
